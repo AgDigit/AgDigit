@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrea Grande
-- 👀 I am a graphic design minded front-end developer. I’m interested in create beautiful and functional projects by proper design prsctices and translation into well structured code.  
+- 👀 I am a graphic design minded front-end developer. I’m interested in create beautiful and functional projects by proper design practices and translation into well structured code.  
 - 📫 You can contact me at info@andreagrande.com or by visiting www.andreagrande.com.
 
 <!---
